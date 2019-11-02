@@ -137,7 +137,7 @@ pep8-naming==0.4.1
 persepolis==3.1.0
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==5.1.0
+Pillow==6.2.0
 pipeline-live==0.1.5
 pluggy==0.11.0
 prometheus-client==0.5.0
